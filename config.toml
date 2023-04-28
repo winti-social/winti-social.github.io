@@ -10,3 +10,9 @@ headTitle = "winti.social Status"
 [[params.socials]]
 name = "winti.social Mastodon"
 link = "https://winti.social"
+[[params.socials]]
+name = "Über winti.social"
+link = "https://about.winti.social"
+[[params.socials]]
+name = "winti.social Statusseite"
+link = "https://status.winti.social"
