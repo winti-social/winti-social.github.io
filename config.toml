@@ -1,3 +1,12 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://status.winti.social/'
+languageCode = 'de-CH'
+title = 'Status Seite für winti.social'
+theme = "yinyang"
+
+[params]
+mainSections = ["posts"]
+headTitle = "winti.social Status"
+
+[[params.socials]]
+name = "winti.social Mastodon"
+link = "https://winti.social"
